@@ -5,3 +5,5 @@ Esse livro mostra um exemplo prático de como criar um site e um aplicativo móv
 Luciana Akemi Oshiiwa, 
 Aloisio Pinto
 
+#link
+https://clubedeautores.com.br/livro/usando-o-firebase-em-site-e-app
